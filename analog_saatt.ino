@@ -1,3 +1,8 @@
+//https://engineeringvolkan.wordpress.com 
+//VOLKAN UNAL
+//NOKİA5110 EKRAN KULLANILMIŞTIR , DİĞER EKRANLAR İÇİN SADECE KÜTÜPHANE DEĞİŞTİRMENİZ YETERLİDİR.
+//SAAT MANTIĞI DEĞİŞMEYECEKTİR.
+
 #include <SPI.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_PCD8544.h>
